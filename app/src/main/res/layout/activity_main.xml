@@ -21,7 +21,7 @@
         android:layout_marginTop="20sp"
         android:text="Imagine your future!"
         android:fontFamily="sans-serif"
-        android:textSize="35sp"
+        android:textSize="30sp"
         android:id="@+id/textView" />
 
     <TextView
